@@ -102,7 +102,7 @@
 
       </div>
     </div>
-
+	<h1> hoi </h1>
     @include('layouts.footer')
   </body>
 </html>
