@@ -18,4 +18,4 @@
 Auth::routes();
 
 Route::get('/', 'HomeController@index');
-Route::resource('posts', 'PostsController');
+Route::resource('posts', 'PostController');

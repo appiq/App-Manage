@@ -39,7 +39,9 @@
       </div>
     </div>
 
+	<div class="container">
 	@include('layouts.nav')
+	</div>
 
     <section class="jumbotron text-center">
       <div class="container">
